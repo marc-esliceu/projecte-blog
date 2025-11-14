@@ -1,0 +1,14 @@
+
+.backgrounds{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-home {
+    background-image: url(../img/home-imatge-aferrada-navbar.png);
+    height: 600px;
+}
+
+
