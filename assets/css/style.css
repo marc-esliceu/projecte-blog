@@ -30,6 +30,11 @@
     height: 600px;
 }
 
+.bg-home-contact {
+    background-image: url(../img/foto-navbar-contact.png);
+    height: 600px;
+}
+
 .bg-boto {
     background-color:#B22727;
 ;
