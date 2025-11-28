@@ -80,3 +80,24 @@ i{
 .background-sub-footer{
     background-color: #343A40;
 }
+
+.bg-2a-foto-home {
+    height: 600px;
+    background-image: url("../img/2a-foto-gran-home.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.tamany-ftos-abaix-home{
+    width: 420px;
+    height: 350px;
+}
+
+.color-texto-news-abaix-home{
+    color: #E5E5E5;
+}
+
+.bg-transparent{
+    background-color: transparent;
+}
