@@ -11,10 +11,28 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
+a{
+    text-decoration: none;
+}
+
+.lora-2 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
 .lora-4 {
   font-family: "Lora", serif;
   font-optical-sizing: auto;
   font-weight: 400;
+  font-style: normal;
+}
+
+.lora-7 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -35,7 +53,30 @@
     height: 600px;
 }
 
+.bg-home-new {
+    background-image: url(../img/foto-navbar-new.png);
+    height: 600px;
+}
+
+.bg-home-news {
+    background-image: url(../img/foto-navbar-news.png);
+    height: 600px;
+}
+
 .bg-boto {
     background-color:#B22727;
 ;
+}
+
+.conections-tamany {
+    width: 172;
+    height: 20;
+}
+
+i{
+    color: #6C757D;
+}
+
+.background-sub-footer{
+    background-color: #343A40;
 }
